@@ -1,3 +1,11 @@
 .tamanho-imagem{
     width: 50%;
 }
+
+h1 {
+    font-family: 'Anton', sans-serif;
+}
+
+.texto-corpo{
+    font-family: 'Nanum Gothic', sans-serif;
+}
